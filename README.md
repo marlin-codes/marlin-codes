@@ -12,3 +12,5 @@ My research interests are mainly in the fields of machine learning and data mini
 Feel free to contact me if you have anything to talk with me.
 
 Besides, I am organizing a hyperbolic paper reading group per week on Zoom. Feel free to contact me if you would like to join, share, and discuss.
+
+Email: menglin.yang@yale.edu; mlyang@link.cuhk.edu.hk
