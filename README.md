@@ -1,4 +1,4 @@
-### Hi there 👋 I am Menglin Yang.
+### Hi there 👋 I am Menglin Yang
 
 ---
 
