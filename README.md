@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Menglin Yang.
+
+---
 
 I am currently a Postdoctoral researcher at Yale University, working with Prof. Rex Ying. Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by Prof. Irwin King.
 
