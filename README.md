@@ -15,4 +15,4 @@ Feel free to contact me if you have anything to talk with me.
 
 Besides, I am organizing a hyperbolic paper reading group per week on Zoom. Feel free to contact me if you would like to join, share, and discuss.
 
-Email: menglin.yang@yale.edu; mlyang@link.cuhk.edu.hk
+Email: menglin.yang at yale.edu; mlyang at link.cuhk.edu.hk
