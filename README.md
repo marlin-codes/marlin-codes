@@ -16,4 +16,5 @@ Feel free to contact me if you have anything to talk with me.
 Besides, I am organizing a hyperbolic paper reading group per week on Zoom. Feel free to contact me if you would like to join, share, and discuss.
 
 
-![](https://hackmd.io/_uploads/BkCgfrofp.png)
+<img src="https://hackmd.io/_uploads/BkCgfrofp.png" width="400" />
+
