@@ -12,8 +12,6 @@ My research interests are mainly in the fields of machine learning and data mini
 - AI for Drug Discovery (AI4Drug).
 
 Please feel free to reach out to me if you have anything to discuss.
-
-Besides, I am organizing a hyperbolic paper reading group per week on Zoom. Feel free to contact me if you would like to join, share, and discuss.
 You can find the hyperbolic learning groups at Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 <img src="https://hackmd.io/_uploads/BkCgfrofp.png" width="400" />
