@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a Postdoctoral researcher at Yale University, working with Prof. Rex Ying. Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by Prof. Irwin King.
+I am currently a Postdoctoral researcher at Yale University. Before that, I obtained my Ph.D. from The Chinese University of Hong Kong, supervised by Prof. Irwin King.
 
 My research interests are mainly in the fields of machine learning and data mining. Recently, I have been working on the following topics, including 
 - Hyperbolic Geometry
