@@ -4,7 +4,7 @@
 
 I am currently a Postdoctoral researcher at Yale University. Before that, I obtained my Ph.D. from The Chinese University of Hong Kong.
 
-My research interests are mainly in machine learning and data mining. Recently, I have been working on the following topics, including 
+My research interests are mainly in geometric machine learning and data mining. Recently, I have been working on the following topics, including 
 - Hyperbolic Geometry
 - Representation Learning
 - Transformers
