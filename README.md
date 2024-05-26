@@ -12,6 +12,6 @@ My research interests are mainly in geometric machine learning and data mining. 
 - AI for Drug Discovery (AI4Drug)
 - Recommender Systems
 
-Please feel free to contact me (menglin dot yang at outlook dot com) if you have anything to discuss.
+Please feel free to contact me (menglin.yang[@]outlook.com) if you have anything to discuss.
 👉 You can find the hyperbolic learning groups at Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
